@@ -1,0 +1,13 @@
+53bc1eb3d41444735ceb1667671614bb *DESCRIPTION
+897e400cf63ff27ce71f8c35b4928777 *LICENSE
+7b8193896c32bbc5f958d5bff699d67f *NAMESPACE
+a1c23ade5f2398b7c2a4b1acc90b0b0e *R/colormap-package.r
+385d3de2a5dee7ce6547a5dfa93dd8f4 *R/colormap.R
+a0dc5618847debee6ed499b7d55c3557 *R/scales.R
+a969a096be8517feb3cd6ff6617c0b3a *inst/js/colormap.js
+b0ceac2bac224b6f23b5d9a8561dc93f *man/colormap.Rd
+00e300c7e8432c2c01dc72530ce995ff *man/colormap_pal.Rd
+d6e5809317200c2ce6c22f00c61b6fb7 *man/colormaps.Rd
+c66f9031535711934407a539f5e99ce8 *man/scale_colormap.Rd
+1d27cc82b35d55eb5711e9934978fba4 *tests/testthat.R
+6e4df51b6e442364d5c8c3beee9d91c2 *tests/testthat/testcolormap.R
